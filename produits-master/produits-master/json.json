@@ -1,0 +1,69 @@
+[
+    {
+        "ID" : 201,
+        "designation" :  "Rack de musculation",
+        "prix": "5 999 MAD",
+        "categorie": "les adultes",
+        "disponibilite": ["tanger","rabat","casablanca","agadir"],
+        "fournisseur" : "hahah"
+    },
+
+    {
+        "ID" : 202,
+        "designation" :  "Tapis de course connecte T540C",
+        "prix": "6 999 MAD",
+        "categorie": "les adultes",
+        "disponibilite": ["tanger","casablanca","fes","agadir"],
+        "fournisseur" : "hahah"
+    },
+
+    {
+        "ID" : 207,
+        "designation" :  "Velo de biking ",
+        "prix": "4 999 MAD",
+        "categorie": "les adutes",
+        "disponibilite": ["tanger","rabat","fes","agadir"],
+        "fournisseur" : "hahah"
+
+    },
+    {
+        "ID" : 204,
+        "designation" :  "Velo d'appartement Essential",
+        "prix": "1 499 MAD",
+        "categorie": "les adulte",
+        "disponibilite": ["rabat","casablanca","fes","agadir"],
+        "fournisseur" : "hahah"
+    },
+    {
+        "ID" : 203,
+        "designation" :  "Chaise Romaine de musculation",
+        "prix": 32652,
+        "categorie": "les adultes",
+        "disponibilite": ["tanger","rabat","oujda","fes","agadir"],
+        "fournisseur" : "hahah"
+    },
+    {
+        "ID" : 206,
+        "designation" :  "Appareil abdo ergo et confortale noir",
+        "prix": "249 MAD",
+        "categorie": " les Adultes",
+        "disponibilite": ["tanger","rabat","tetouan","casablanca","fes","agadir"],
+        "fournisseur" : "hahah"
+    },
+    {
+        "ID" : 208,
+        "designation" :  "Banc de musculation 500 pliable et incluable",
+        "prix": "599 MAD",
+        "categorie": "les adultes",
+        "disponibilite": ["tanger","rabat","casablanca","dakhla","fes","agadir"],
+        "fournisseur" : "hahah"
+    },
+    {
+        "ID" : 205,
+        "designation" :  "Kit pump barre 20kg musculation",
+        "prix": 32652,
+        "categorie": "les adultes",
+        "disponibilite":["tanger","tantan","rabat","casablanca","fes","agadir"],
+        "fournisseur" : "hahah"
+    }
+]

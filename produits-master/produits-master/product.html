@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" 
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="//code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Decathlon product</title>
+</head>
+<body>
+<!-- -----------------------------nav bar------------------------------------ -->
+  <ul class="nav justify-content-center">
+    <li class="nav-item">
+      <a class="nav-link active" aria-current="page" href="#" style="color: black;">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="product.html" style="color: black;">Product</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#" style="color: black;">About Us</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link disabled"></a>
+    </li>
+  </ul>
+
+<!-- --------- div contient le h1 et input de rechrche et le tableau en utilisant jquery ------ -->
+ <div class="container">
+  <h1>Decathlon Product </h1>
+   <input type="text" id="myInput" placeholder="search.." ><br><br>
+
+  <!-- ----------------------------- table------------------------------------ -->
+  <table id="table" class="table">
+    <thead>
+      <tr class="tr">
+        
+        <th class="tha" id="id" scope="col"><a>ID</a></th>
+        <th class="tha" id="desination" scope="col">Designation</th>
+        <th class="tha" id="prix" scope="col">prix</th>
+        <th class="tha" id="categorie" scope="col">categorie</th>
+        <th class="tha" id="disponibilite" scope="col">Disponibilite</th>
+        <th class="tha"  id="fournisseur" scope="col">Fournisseur</th>
+        
+      </tr>
+    </thead>
+    <tbody id="myTable">
+      <tr>
+        
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+        
+      </tr>
+    
+    </tbody>
+  </table>
+<!--------------- pagination ---------------->
+  <nav aria-label="Page navigation example">
+    <ul class="pagination pg-blue justify-content-center">
+      <li class="page-item disabled">
+        <a class="page-link" tabindex="-1">Previous</a>
+      </li>
+      <li class="page-item" style="color: black;"><a class="page-link">1</a></li>
+      <li class="page-item" style="color: black;"><a class="page-link">2</a></li>
+      <li class="page-item" style="color: black;"><a class="page-link">3</a></li>
+      <li class="page-item">
+        <a class="page-link">Next</a>
+      </li>
+    </ul>
+  </nav>
+  </div>
+   <script src="javascript.js"></script>
+</body>
+</html>

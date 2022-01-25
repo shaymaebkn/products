@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+     background-image: url(weights-training-equipment-picture-id1049740142.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    font-family: rubik;
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    opacity: 0.8;
+}
+h1{
+    text-align: center;
+    margin-top: 3%;
+    font-weight: bold;
+}
+table{
+    font-size: 20px;
+   
+    text-align: center;
+}
+ul{
+    background-color: rgb(250, 250, 250);
+    font-size: 20px;
+}
+
+#myInput{
+    border-radius: 9px;
+    width: 30%;
+    height: 40px;
+    background-color: white;
+   
+}
+
+
+
+
