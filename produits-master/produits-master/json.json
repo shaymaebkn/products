@@ -5,7 +5,7 @@
         "prix": "5 999 MAD",
         "categorie": "les adultes",
         "disponibilite": ["tanger","rabat","casablanca","agadir"],
-        "fournisseur" : "hahah"
+        "fournisseur" : "decathlon"
     },
 
     {
@@ -14,7 +14,7 @@
         "prix": "6 999 MAD",
         "categorie": "les adultes",
         "disponibilite": ["tanger","casablanca","fes","agadir"],
-        "fournisseur" : "hahah"
+        "fournisseur" : "decathlon"
     },
 
     {
@@ -23,7 +23,7 @@
         "prix": "4 999 MAD",
         "categorie": "les adutes",
         "disponibilite": ["tanger","rabat","fes","agadir"],
-        "fournisseur" : "hahah"
+        "fournisseur" : "decathlon"
 
     },
     {
@@ -32,7 +32,7 @@
         "prix": "1 499 MAD",
         "categorie": "les adulte",
         "disponibilite": ["rabat","casablanca","fes","agadir"],
-        "fournisseur" : "hahah"
+        "fournisseur" : "decathlon"
     },
     {
         "ID" : 203,
@@ -40,7 +40,7 @@
         "prix": 32652,
         "categorie": "les adultes",
         "disponibilite": ["tanger","rabat","oujda","fes","agadir"],
-        "fournisseur" : "hahah"
+        "fournisseur" : "decathlon"
     },
     {
         "ID" : 206,
@@ -48,7 +48,7 @@
         "prix": "249 MAD",
         "categorie": " les Adultes",
         "disponibilite": ["tanger","rabat","tetouan","casablanca","fes","agadir"],
-        "fournisseur" : "hahah"
+        "fournisseur" : "decathlon"
     },
     {
         "ID" : 208,
@@ -56,7 +56,7 @@
         "prix": "599 MAD",
         "categorie": "les adultes",
         "disponibilite": ["tanger","rabat","casablanca","dakhla","fes","agadir"],
-        "fournisseur" : "hahah"
+        "fournisseur" : "decathlon"
     },
     {
         "ID" : 205,
@@ -64,6 +64,6 @@
         "prix": 32652,
         "categorie": "les adultes",
         "disponibilite":["tanger","tantan","rabat","casablanca","fes","agadir"],
-        "fournisseur" : "hahah"
+        "fournisseur" : "decathlon"
     }
 ]
